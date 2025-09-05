@@ -28,4 +28,7 @@ This repository is created to learn go lang from scratch
 
 <h><b>GO PACKAGES</b></h>
 
-- 
+- Go programs are organized into pacgkages
+- Go's standard library, provides different core packages for us to use
+- "fmt" is one of these, which you can use by importing it
+- Check the documentation for identifying the right package
