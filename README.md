@@ -1,2 +1,24 @@
 # GoLang
 This repository is created to learn go lang from scratch
+
+* Multi-Core Concurrency Support
+
+- Go has built in concurrency mechanism, languages like python, nodejs do not have built in concurrency.
+- Go was designed to run on multiplee cores and built to support concurrency
+- Concurrency in Go is cheap and easy
+
+* Main Use Cases of GO:
+ 
+- For performant applications
+- Running on scaled, distributed systems
+
+* Characteristics of GO:
+
+- Simple and readable syntax of a synamically typed language like Python
+- Speed and efficiency of a lower-level, statically typed language like C++
+- Server-side or Backend language
+- Could be used to build microservices, web-applications, database services
+- Many cloud technologies or technologies that run on Modern cloud environments are written in Go like Docker, Kubernetes, Cockroach DB and so on.
+- Simple Syntax: Easy to learn, read and write code.
+- Fast Build Time, startup and run.
+- Requires fewer resources like CPU and RAM to run
