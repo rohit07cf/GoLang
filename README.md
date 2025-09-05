@@ -22,3 +22,10 @@ This repository is created to learn go lang from scratch
 - Simple Syntax: Easy to learn, read and write code.
 - Fast Build Time, startup and run.
 - Requires fewer resources like CPU and RAM to run
+
+
+- A program can only have 1 main function, becasue you can only have 1 entrypoint
+
+<h><b>GO PACKAGES</b></h>
+
+- 
