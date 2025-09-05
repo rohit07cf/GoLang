@@ -1,4 +1,4 @@
-<h><b>Variables and Constants</b></h>
+<h><b>Variables</b></h>
 ```go
 package main
 
