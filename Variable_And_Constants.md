@@ -1,5 +1,5 @@
 <h><b>Variables and Constants</b></h>
-'''
+```go
 package main
 
 import "fmt"
